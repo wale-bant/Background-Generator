@@ -6,7 +6,7 @@ body {
     color: rgba(0,0,0,.5);
     text-transform: uppercase;
     padding-top: 5%;
-    background: linear-gradient(to right, red, yellow);
+    background: linear-gradient(to right, purple, #00FFCD );
 }
 
 h3 {
@@ -14,4 +14,25 @@ h3 {
     letter-spacing: 0.01em;
     text-transform: none;
     font: 900 1em;
+}
+
+img {
+    width: 5vh;
+    /* float: right; */
+    padding-right: 10px;
+    /* flex-direction: row;
+    justify-content: flex-end;
+    display: flex;
+     */
+}
+
+footer {
+    text-transform: initial;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: normal;
+    padding-top: 20px;
+}
+
+#love {
+    width: 15px;
 }
