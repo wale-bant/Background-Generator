@@ -1,0 +1,17 @@
+body {
+    font-family: Roboto;
+    text-align: center;
+    letter-spacing: .5em;
+    top: 15%;
+    color: rgba(0,0,0,.5);
+    text-transform: uppercase;
+    padding-top: 5%;
+    background: linear-gradient(to right, red, yellow);
+}
+
+h3 {
+    width: 100%;
+    letter-spacing: 0.01em;
+    text-transform: none;
+    font: 900 1em;
+}
